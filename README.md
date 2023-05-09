@@ -3,13 +3,16 @@
 I'm an electrical engineer and also a mobile developer
 
 - 🔭 I'm currently working on a project in flutter
-- 🌱 I’m currently learning python and JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything and everything!
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' width='33'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c#.svg' width='33'/>
+<img src = 'https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg' width='33'/>
+<img src = 'https://github.com/get-icon/geticon/blob/master/icons/java.svg' width='33'/>
+
+
 
  
  ## Technologies I Use
