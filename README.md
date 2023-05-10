@@ -9,8 +9,8 @@ I'm an electrical engineer and also a mobile developer
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' width='33'/>
-<img src = 'https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg' width='30'/>
-<img src = 'https://github.com/get-icon/geticon/blob/master/icons/java.svg' width='30'/>
+<img src = 'https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg' width='28'/>
+<img src = 'https://github.com/get-icon/geticon/blob/master/icons/java.svg' width='28'/>
 
 
 
