@@ -7,27 +7,24 @@ I'm an electrical engineer and also a mobile developer
 - 💬 Ask me about anything and everything!
 
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' width='33'/>
-<img src = 'https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg' width='28'/>
-<img src = 'https://github.com/get-icon/geticon/blob/master/icons/java.svg' width='28'/>
+<img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg' width='40'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg' width='40'/>  <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg' width='40'/>
+<img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg' width='40'/>
+<img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg' width='40'/>
+<img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg' width='40'/>
 
 
 
  
  ## Technologies I Use
-   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> 
+   <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg' height='40'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg' width='40'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg' width='40'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg' width='40'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg' width='40'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg' width='40'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg' width='40'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Dark.svg' width='40'/> 
    
    ## :link: Links
 
 <p align="center">
   <a href="mailto:elizio.novais.neto@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://discord.gg/"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
-  <a href="https://twitter.com/"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/elizionovais/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.facebook.com/elisio.novais.5/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/elisionova/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://steamcommunity.com/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
  
   
   
